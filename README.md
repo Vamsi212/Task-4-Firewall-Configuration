@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9bec019e-defe-46a3-8254-8fea15a51ddc)![image](https://github.com/user-attachments/assets/2b1797c2-597d-495d-961b-343aff53ce35)# Task 4: Setup and Use a Firewall on Windows/Linux
+# Task 4: Setup and Use a Firewall on Windows/Linux
 
 ## 🎯 Objective
 
