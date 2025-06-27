@@ -55,6 +55,26 @@ nmap -p 23 localhost
 ```bash
 sudo ufw delete deny 23
 ```
+# In Windows
+ ⚙️ Steps Performed
+
+### ✅ 1. Opened Firewall Configuration
+- Opened `Windows Defender Firewall with Advanced Security` from Start Menu.
+
+### ✅ 2. Listed Current Inbound Rules
+- Navigated to **Inbound Rules** in the left pane to view existing rules.
+
+### ✅ 3. Blocked Inbound Traffic on Port 23 (Telnet)
+- Clicked on **New Rule > Port > TCP > Specific local ports: 23**
+- Selected **Block the connection**
+- Applied to all profiles (Domain, Private, Public)
+- Named the rule: `Block_Telnet_Port_23`
+
+### ✅ 4. Tested the Block Rule
+- Used `telnet localhost 23` to test connectivity.
+- Also verified using `nmap` from another machine:
+
+
 
 ## ## 🖼️ Screenshots
 
