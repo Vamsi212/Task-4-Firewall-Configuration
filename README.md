@@ -135,30 +135,30 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 ### In Linux:
 
-- Firewall status before/after
+- #### Firewall status before/after
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/ccfcf02ea9cb91a7f3df9a75206141fe005df551/screenshots/Screenshot%20(399).png)
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/f02a4378e400b3e4032043a8e36b3a3f31c3fabb/screenshots/Screenshot%20(400).png)
 
-- Port 22 block confirmation
+- #### Port 22 block confirmation
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/f02a4378e400b3e4032043a8e36b3a3f31c3fabb/screenshots/Screenshot%20(401).png)
 
-- UFW commands execution
+- #### UFW commands execution
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/f02a4378e400b3e4032043a8e36b3a3f31c3fabb/screenshots/Screenshot%20(402).png)
 
 
 ### In Windows:
 
-- Windows Firewall UI
+- #### Windows Firewall UI
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(403).png)
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(404).png)
 
-- Rule creation wizard
+- #### Rule creation wizard
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(405).png)
 
@@ -177,7 +177,7 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/050d16620f7771ae7a8e0f921301eba9b3fef774/screenshots/Screenshot%20(412).png)
 
 
-- Testing block using Telnet/Nmap
+- #### Testing block using Telnet/Nmap
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(413).png)
 
@@ -189,7 +189,7 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(418).png)
 
-- Rule removal
+- #### Rule removal
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/c543834c52df4d5f64dfce3653d564e114895d52/screenshots/Screenshot%20(419).png)
 
