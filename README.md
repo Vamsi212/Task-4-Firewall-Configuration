@@ -174,6 +174,8 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(411).png)
 
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/050d16620f7771ae7a8e0f921301eba9b3fef774/screenshots/Screenshot%20(412).png)
+
 
 - Testing block using Telnet/Nmap
 
