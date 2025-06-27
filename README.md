@@ -179,6 +179,20 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 - Testing block using Telnet/Nmap
 
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(413).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(414).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(414).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(415).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(416).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(417).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/57433b9e106ea31054fb64a16d45a86359ce0b83/screenshots/Screenshot%20(418).png)
+
 - Rule removal
 
 
