@@ -55,6 +55,16 @@ sudo ufw delete deny 23
 sudo ufw allow 22
 ```
 
+### ✅ 7. To Start and Stop SSH Service & Check the Status
+
+```bash
+sudo systemctl start ssh
+sudo systemctl status ssh
+sudo systemctl stop ssh
+```
+
+
+
 # In Windows
 
  ## ⚙️ Steps Performed
