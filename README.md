@@ -8,8 +8,9 @@ Configure and test basic firewall rules to **allow** or **block** network traffi
 
 ## 🛠️ Environment Used
 
-- **OS:** Parrot OS (Linux), Windows 7 (VM), Windows 11
-- **Tool:** UFW (Uncomplicated Firewall)
+- **OS:** Parrot OS (Linux), Windows 7 (VM), Windows 11.
+- **Tool:** UFW (Uncomplicated Firewall),  Windows Defender Firewall with Advanced Security.
+
 
 ---
 
