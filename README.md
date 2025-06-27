@@ -78,6 +78,7 @@ sudo ufw delete deny 23
 
 - Used `telnet localhost 23` to test connectivity.
 - Also verified using `nmap` from another machine:
+
   ```bash
   nmap -p 23 <Windows-IP>
   ```
