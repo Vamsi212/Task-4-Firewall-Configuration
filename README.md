@@ -81,15 +81,15 @@ sudo ufw delete deny 23
   ```bash
   nmap -p 23 <Windows-IP>
   ```
-  ### ✅ 5. Allowed SSH (Optional - Port 22)
+### ✅ 5. Allowed SSH (Optional - Port 22)
 
-  - Created a rule to allow SSH if needed:
-    - New Rule > Port > TCP > Port 22 > Allow the connection.
+- Created a rule to allow SSH if needed:
+  - New Rule > Port > TCP > Port 22 > Allow the connection.
 
- ### ✅ 6. Removed the Test Block Rule
+### ✅ 6. Removed the Test Block Rule
 
-  - Went back to **Inbound Rules**.
-  - Right-click on `Block_Telnet_Port_23` and selected **Delete**.
+- Went back to **Inbound Rules**.
+- Right-click on `Block_Telnet_Port_23` and selected **Delete**.
 
 
 
