@@ -31,10 +31,10 @@ sudo ufw status
 sudo ufw status numbered
 ```
 
-### ✅ 3. Blocked Inbound Traffic on Port 23 (Telnet)
+### ✅ 3. Blocked Inbound Traffic on Port 22 (SSH)
 
 ```bash
-sudo ufw deny 23
+sudo ufw deny 22
 ```
 
 ### ✅ 4. Allowed SSH (port 22)
@@ -46,8 +46,7 @@ sudo ufw allow 22
 ### ✅ 5. Tested the Block Rule
 
 ```bash
-telnet localhost 23
-nmap -p 23 localhost
+nmap -p 22 localhost
 ```
 
 ### ✅ 6. Removed the test rule
@@ -67,30 +66,26 @@ sudo ufw delete deny 23
 
 - Navigated to **Inbound Rules** in the left pane to view existing rules.
 
-### ✅ 3. Blocked Inbound Traffic on Port 23 (Telnet)
+### ✅ 3. Blocked Inbound Traffic on Port 22 (SSH)
 
 - Clicked on **New Rule > Port > TCP > Specific local ports: 23**
 - Selected **Block the connection**
 - Applied to all profiles (Domain, Private, Public)
-- Named the rule: `Block_Telnet_Port_23`
+- Named the rule: `Block_SSH_Port_22`
 
 ### ✅ 4. Tested the Block Rule
 
-- Used `telnet localhost 23` to test connectivity.
+- Used `ssh your_username@192.168.1.72 ` to test connectivity.
 - Also verified using `nmap` from another machine:
 
   ```bash
-  nmap -p 23 <Windows-IP>
+  nmap -p 22 <Windows-IP>
   ```
-### ✅ 5. Allowed SSH (Optional - Port 22)
-
-- Created a rule to allow SSH if needed:
-  - New Rule > Port > TCP > Port 22 > Allow the connection.
-
-### ✅ 6. Removed the Test Block Rule
+  
+### ✅ 5. Removed the Test Block Rule
 
 - Went back to **Inbound Rules**.
-- Right-click on `Block_Telnet_Port_23` and selected **Delete**.
+- Right-click on `Block_SSH_Port_22` and selected **Delete**.
 
 
 
@@ -102,7 +97,7 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 - Firewall status before/after
     
-- Port 23 block confirmation
+- Port 22 block confirmation
     
 - UFW commands execution
 
