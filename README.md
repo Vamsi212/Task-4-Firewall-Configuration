@@ -14,6 +14,8 @@ Configure and test basic firewall rules to **allow** or **block** network traffi
 
 ---
 
+# In Linux
+
 ## ⚙️ Steps Performed
 
 ### ✅ 1. Enabled UFW
