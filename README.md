@@ -98,6 +98,35 @@ sudo systemctl stop ssh
 - Went back to **Inbound Rules**.
 - Right-click on `Block_SSH_Port_22` and selected **Delete**.
 
+ ### ✅ 6. To Start and Stop SSH Service & Check the Status (In Windows)
+
+- It Checks whether the OpenSSH Server feature is installed, available, or missing on your Windows system.
+
+```powershell
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH.Server*'
+```
+- If Output looks like this OpenSSH not installed:
+
+```powershell
+Name   : OpenSSH.Server~~~~0.0.1.0
+State  : NotPresent
+```
+- To Install
+
+```powershell
+
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+
+```
+
+- Start the SSH service:
+
+```powershell
+Start-Service sshd
+
+#To Stop
+Stop-Service sshd
+```
 
 
 ## 📸 Screenshots
