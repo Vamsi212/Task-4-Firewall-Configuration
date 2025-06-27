@@ -93,7 +93,7 @@ sudo ufw delete deny 23
 
 
 
-## ## 🖼️ Screenshots
+## 🖼️ Screenshots
 
 All screenshots of the above steps are available in the `/screenshots` folder, including:
 
