@@ -1,4 +1,4 @@
-# Task 4: Setup and Use a Firewall on Windows/Linux
+![image](https://github.com/user-attachments/assets/9bec019e-defe-46a3-8254-8fea15a51ddc)![image](https://github.com/user-attachments/assets/2b1797c2-597d-495d-961b-343aff53ce35)# Task 4: Setup and Use a Firewall on Windows/Linux
 
 ## 🎯 Objective
 
@@ -154,7 +154,26 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 - Windows Firewall UI
 
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(403).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(404).png)
+
 - Rule creation wizard
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(405).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(406).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(407).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(408).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(409).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(410).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/9f843ac2d49a23842f83f797a6b68d6801b183cb/screenshots/Screenshot%20(411).png)
+
 
 - Testing block using Telnet/Nmap
 
