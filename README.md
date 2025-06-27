@@ -191,6 +191,9 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 - Rule removal
 
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/c543834c52df4d5f64dfce3653d564e114895d52/screenshots/Screenshot%20(419).png)
+
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/c543834c52df4d5f64dfce3653d564e114895d52/screenshots/Screenshot%20(420).png)
 
 
 ## 🧠 Key Learnings
