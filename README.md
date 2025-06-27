@@ -137,7 +137,6 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 - Firewall status before/after
 
-![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/894023374171660d3fbb736968369de5c75ed13d/screenshots/Screenshot%20(398).png)
 
 - Port 22 block confirmation
     
