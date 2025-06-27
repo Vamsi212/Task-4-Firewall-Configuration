@@ -24,33 +24,33 @@ Configure and test basic firewall rules to **allow** or **block** network traffi
 sudo ufw enable
 ```
 
-### 2. Listed existing rules
+### ✅ 2. Listed existing rules
 
 ```bash
 sudo ufw status
 sudo ufw status numbered
 ```
 
-### 3. Blocked Inbound Traffic on Port 23 (Telnet)
+### ✅ 3. Blocked Inbound Traffic on Port 23 (Telnet)
 
 ```bash
 sudo ufw deny 23
 ```
 
-### 4. Allowed SSH (port 22)
+### ✅ 4. Allowed SSH (port 22)
 
 ```bash
 sudo ufw allow 22
 ```
 
-### 5. Tested the Block Rule
+### ✅ 5. Tested the Block Rule
 
 ```bash
 telnet localhost 23
 nmap -p 23 localhost
 ```
 
-### 6. Removed the test rule
+### ✅ 6. Removed the test rule
 
 ```bash
 sudo ufw delete deny 23
