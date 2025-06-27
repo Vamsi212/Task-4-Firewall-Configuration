@@ -139,15 +139,15 @@ All screenshots of the above steps are available in the `/screenshots` folder, i
 
 ![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/ccfcf02ea9cb91a7f3df9a75206141fe005df551/screenshots/Screenshot%20(399).png)
 
-![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/ccfcf02ea9cb91a7f3df9a75206141fe005df551/screenshots/Screenshot%20(400).png)
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/f02a4378e400b3e4032043a8e36b3a3f31c3fabb/screenshots/Screenshot%20(400).png)
 
 - Port 22 block confirmation
 
-![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/ccfcf02ea9cb91a7f3df9a75206141fe005df551/screenshots/Screenshot%20(401).png)
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/f02a4378e400b3e4032043a8e36b3a3f31c3fabb/screenshots/Screenshot%20(401).png)
 
 - UFW commands execution
 
-![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/ccfcf02ea9cb91a7f3df9a75206141fe005df551/screenshots/Screenshot%20(402).png)
+![](https://github.com/Vamsi212/Task-4-Firewall-Configuration/blob/f02a4378e400b3e4032043a8e36b3a3f31c3fabb/screenshots/Screenshot%20(402).png)
 
 
 ### In Windows:
