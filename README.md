@@ -56,7 +56,8 @@ nmap -p 23 localhost
 sudo ufw delete deny 23
 ```
 # In Windows
- ⚙️ Steps Performed
+
+ ## ⚙️ Steps Performed
 
 ### ✅ 1. Opened Firewall Configuration
 
