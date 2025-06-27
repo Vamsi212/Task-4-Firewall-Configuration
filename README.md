@@ -37,23 +37,24 @@ sudo ufw status numbered
 sudo ufw deny 22
 ```
 
-### ✅ 4. Allowed SSH (port 22)
-
-```bash
-sudo ufw allow 22
-```
-
-### ✅ 5. Tested the Block Rule
+### ✅ 4. Tested the Block Rule
 
 ```bash
 nmap -p 22 localhost
 ```
 
-### ✅ 6. Removed the test rule
+### ✅ 5. Removed the test rule
 
 ```bash
 sudo ufw delete deny 23
 ```
+
+### ✅ 6. Allowed SSH (port 22)
+
+```bash
+sudo ufw allow 22
+```
+
 # In Windows
 
  ## ⚙️ Steps Performed
